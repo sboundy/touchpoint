@@ -1,0 +1,9 @@
+{
+  "name": "touchpoint",
+  "description": "Easy to read timeline of outages using Timeline JS, MongoDB and exposing JSON interface for updates",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.0.2"
+  }
+}
